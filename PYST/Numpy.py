@@ -14,6 +14,7 @@ print(arr[[2,3]])
 # 数组可以数进行比较，找出大于3的数,用布尔值进行返回
 print(arr > 3)
 
+
 # 将返回的布尔值进行赋值并进行输出
 cond = arr >3
 print(arr[cond])
