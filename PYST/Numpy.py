@@ -17,6 +17,7 @@ print(arr > 3)
 
 # 将返回的布尔值进行赋值并进行输出
 cond = arr >3
+
 print(arr[cond])
 
 # 创建一维数组
